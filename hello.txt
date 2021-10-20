@@ -1,0 +1,6 @@
+apple
+banana
+mango
+
+
+this is all
